@@ -1,4 +1,4 @@
-[![loli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinpogan)](https://hentaigirl.live)
+[![](https://github-readme-stats.vercel.app/api?username=jinpogan)](https://hentaigirl.live)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinpogan&langs_count=10)](https://hentaigirl.live)
